@@ -1,0 +1,28 @@
+/* 
+    Created on : 21/08/2015, 02:02:44 PM
+    Author     : Jassiel
+*/
+
+.cvl_choice{
+    -fx-background-color: #E6F5F5;
+    -fx-background-radius: 12;
+    -fx-border-color: #333;
+    -fx-border-width: 2px;
+    -fx-border-radius: 12;
+    -fx-font-size: 14;
+    -fx-padding: 7;
+}
+.cvl_choice:hover{
+    -fx-background-color: #FCFEFE;
+    -fx-border-color: #777;
+}
+.cvl_unit{
+    -fx-background-color: #D6E0EB;
+    -fx-border-color: #333;
+    -fx-border-width: 2px;
+    -fx-font-size: 14;
+    -fx-padding: 7;
+}
+/*.choice_panel{
+    -fx-background-color: rgba(250,0,0,0.2);
+}*/

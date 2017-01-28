@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="224.0" prefWidth="278.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+   <children>
+      <Label layoutX="15.0" layoutY="14.0" text="CVL Maker" AnchorPane.leftAnchor="15.0" AnchorPane.topAnchor="0.0">
+         <font>
+            <Font name="System Bold Italic" size="48.0" />
+         </font>
+      </Label>
+      <Label layoutX="128.0" layoutY="143.0" text="Versión 1.0" AnchorPane.leftAnchor="15.0" AnchorPane.topAnchor="58.0">
+         <font>
+            <Font name="Berlin Sans FB" size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="24.0" layoutY="96.0" text="Desarrollada por: Jassiel Díaz">
+         <font>
+            <Font name="Bodoni MT" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="15.0" layoutY="124.0" text="Instituto Tecnológico de Orizaba">
+         <font>
+            <Font name="Bodoni MT" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="147.0" layoutY="179.0" text="24 de agosto de 2015" />
+      <Label layoutX="164.0" layoutY="196.0" text="contacto@vjdv.net" />
+   </children>
+</AnchorPane>
